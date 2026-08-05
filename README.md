@@ -44,3 +44,6 @@ Você vai precisar de duas chaves de API gratuitas:
 ## Stack
 
 HTML + CSS + JavaScript puro, sem dependências externas ou build step.
+
+
+Não preciso dizer o óbvio, isso aqui foi vibe coding.
