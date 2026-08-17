@@ -1,6 +1,6 @@
 # PlaylistBridge
 
-Importe playlists do YouTube direto para o Spotify, automaticamente — sem precisar instalar nada, sem backend, direto no navegador.
+Importe playlists do YouTube direto para o Spotify, automaticamente - sem precisar instalar nada, sem backend, direto no navegador.
 
 ## Como funciona
 
@@ -36,7 +36,7 @@ Você vai precisar de duas chaves de API gratuitas:
 
 ## Observações
 
-- As chaves de API ficam salvas apenas no `localStorage` do seu navegador — nada é enviado a servidores externos
+- As chaves de API ficam salvas apenas no `localStorage` do seu navegador - nada é enviado a servidores externos
 - O app está em modo de desenvolvimento do Spotify, então só funciona para contas cadastradas em User Management (até 5 usuários)
 - Músicas que não forem encontradas no Spotify serão marcadas como "não encontradas" e puladas
 - O matching é feito por nome do canal + título do vídeo, com fallback só pelo título
